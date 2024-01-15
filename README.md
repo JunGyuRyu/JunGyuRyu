@@ -18,3 +18,24 @@ Here are some ideas to get you started:
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120/).
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120)
+
+![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
