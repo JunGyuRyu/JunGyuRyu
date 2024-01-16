@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 # <div align=center>
 # </div>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120/) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunGyuRyu)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120/) %20 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23FFCA00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunGyuRyu)
 
-<img src="https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5"  width="200" height="200"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23FFCA00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+
 
 
 
