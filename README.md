@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
 
-### [![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle})
+<--! [![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle}) -->
 
 
 <h3 align="left">Languages and Tools:</h3>
