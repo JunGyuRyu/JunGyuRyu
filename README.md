@@ -17,6 +17,15 @@
 </p>
 
 
+</p>
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/JunGyuRyu">
+    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/>
+  </a>
+</p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
 
 <!--  [![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle}) -->
