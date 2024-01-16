@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunGyuRyu)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=20:ffffff,100:0000ff&height=150&text=JunGyuRyu&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%20Computer%20Science%20and%20Engineering&descSize=20&rotate=0&descAlign=70&descAlignY=55)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=150)
