@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&layout=compact&theme=dracula)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&layout=compact&theme=dark)
