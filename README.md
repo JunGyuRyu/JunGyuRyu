@@ -17,41 +17,22 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120/).
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120/). | [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunGyuRyu)](https://github.com/anuraghazra/github-readme-stats
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23FFCA00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23FFCA00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) | ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 
-![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunGyuRyu)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5"  width="200" height="200"/> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
 </div>
 
-<img src="https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5"  width="200" height="200"/>
 
 
-
-
-# 아래 mkdown을 참조해서, 자신의 github에 사용하자
-- username=[사용자이름]
-- langs_count=[화면에 표기될 언어갯수]
-- layout=[화면에 리스트 형식 혹은 통계치로 보여질지 여부]
-- theme=[default는 white배경. 그 외 theme는 github-readme-stats 참조]
-- ()﻿ = [위에 만든 자신의 username로 생성된 Repo주소]
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=react)](https://github.com/JunGyuRyu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=blueberry)](https://github.com/JunGyuRyu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=blue-green)](https://github.com/JunGyuRyu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=shadow_blue)](https://github.com/JunGyuRyu/github-readme-stats)
-
-
+값 | 의미 | 기본값
+---|:---:|---:
+`static` | 유형(기준) 없음 / 배치 불가능 | `static`
+`relative` | 요소 **자신**을 기준으로 배치 |
+`absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
+`fixed` | **브라우저 창**을 기준으로 배치 |
 
 
