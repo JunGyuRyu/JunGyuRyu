@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=150&section=header&text=Hello%20World!&fontSize=50&fontAlign=75&fontAlignY=35&animation=fadeIn&fontColor=d6ace6&desc=J%20G%20Ryu&descSize=30&descColor=000000&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=150&section=header&text=Hello%20World!&fontSize=50&fontAlign=75&fontAlignY=35&animation=fadeIn&fontColor=d6ace6&desc=J%20G%20Ryu&descSize=30&&fontColor=00000&rotate=0)
 
 ### Hi there 👋
 
