@@ -41,8 +41,12 @@ Here are some ideas to get you started:
 - theme=[default는 white배경. 그 외 theme는 github-readme-stats 참조]
 - ()﻿ = [위에 만든 자신의 username로 생성된 Repo주소]
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&langs_count=10&layout=compact&theme=white)](https://github.com/JunGyuRyu?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=white)](https://github.com/JunGyuRyu/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=dark)](https://github.com/JunGyuRyu/github-readme-stats)
 
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&theme=dracula)](https://github.com/JunGyuRyu/github-readme-stats)
