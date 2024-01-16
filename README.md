@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120/)%100![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple)</p>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120)](https://solved.ac/fbwnsrb120/)    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple)</p>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
 
