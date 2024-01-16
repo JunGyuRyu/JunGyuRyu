@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 `fixed` | **브라우저 창**을 기준으로 배치 |
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunGyuRyu)](https://github.com/anuraghazra/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
