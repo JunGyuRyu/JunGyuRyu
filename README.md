@@ -13,26 +13,39 @@
 
 
 <p align="center">
-  <a href="https://github.com/JunGyuRyu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <div>
-    <h3 align="left">Languages and Tools:</h3>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/JunGyuRyu/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      </td>
+      <td align="left">
+        <h3>Languages and Tools:</h3>
+        <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <a href="https://github.com/JunGyuRyu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <div>
-    <h3 align="center">Languages and Tools:</h3>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/JunGyuRyu/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      </td>
+      <td align="center">
+        <h3>Languages and Tools:</h3>
+        <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 
