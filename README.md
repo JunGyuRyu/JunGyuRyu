@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://solved.ac/fbwnsrb120/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/JunGyuRyu">
@@ -12,18 +12,34 @@
 
 <p align="center">
   <a href="https://solved.ac/fbwnsrb120/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   </a>
-</p>
-
-
-</p>
-  </a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/JunGyuRyu">
     <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://solved.ac/fbwnsrb120/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필" />
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/JunGyuRyu">
+    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" height="150" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://solved.ac/fbwnsrb120/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필" height="195" />
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/JunGyuRyu">
+    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" />
+  </a>
+</p>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
