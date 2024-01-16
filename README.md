@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 
 ![prg_git](https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5)
 
+<img src="https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5"  width="200" height="400"/>
+
+<img src="https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5  width="200" height="400"/>
+
 
 
 # 아래 mkdown을 참조해서, 자신의 github에 사용하자
@@ -42,11 +46,16 @@ Here are some ideas to get you started:
 - ()﻿ = [위에 만든 자신의 username로 생성된 Repo주소]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=white)](https://github.com/JunGyuRyu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=react)](https://github.com/JunGyuRyu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=blueberry)](https://github.com/JunGyuRyu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=blue-green)](https://github.com/JunGyuRyu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=shadow_blue)](https://github.com/JunGyuRyu/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=dark)](https://github.com/JunGyuRyu/github-readme-stats)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&theme=dracula)](https://github.com/JunGyuRyu/github-readme-stats)
