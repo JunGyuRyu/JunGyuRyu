@@ -23,17 +23,17 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필" />
   </a>
   <a href="https://github.com/JunGyuRyu">
-    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" height="160" />
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://solved.ac/fbwnsrb120/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필" height="195" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필" height="185" />
   </a>
   <a href="https://github.com/JunGyuRyu">
-    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" height="185"/>
   </a>
 </p>
 
