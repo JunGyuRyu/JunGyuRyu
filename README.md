@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=150&section=header&text=[JunGyuRyu]&fontSize=50&fontAlign=75&fontAlignY=35&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%Computer%20Science%20and%20Engineering&descSize=30&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=150&section=header&text=[JunGyuRyu]&fontSize=50&fontAlign=75&fontAlignY=35&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%20Computer%20Science%20and%20Engineering&descSize=10&rotate=0&descAlign=60&descAlignY=70)
 
 ### Hi there 👋
 
