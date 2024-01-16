@@ -29,12 +29,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<img src="https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5"  width="200" height="200"/>
 
-![prg_git](https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5)
-
-<img src="https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5"  width="100" height="200"/>
-
-<img src="https://github.com/JunGyuRyu/FISA_java_project/assets/88473185/15519886-1077-4737-9707-1db6d88703e5  width="100" height="100"/>
 
 
 
