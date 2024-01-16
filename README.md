@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2&height=300&section=header&text=text=Hello%20World!&desc=Hello%20capsule%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2&height=300&section=header&text=Hello%20World!&desc=J%20G%20Ryu&fontSize=50)
 
 ### Hi there 👋
 
