@@ -14,12 +14,27 @@
 
 <p align="center">
   <a href="https://github.com/JunGyuRyu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/>
-  </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Languages and Tools" width="40" height="40"/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <div>
+    <h3 align="left">Languages and Tools:</h3>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+    </a>
+  </div>
 </p>
+
+<p align="center">
+  <a href="https://github.com/JunGyuRyu/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <div>
+    <h3 align="center">Languages and Tools:</h3>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+    </a>
+  </div>
+</p>
+
+
 
 
 <!--  [![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle}) -->
