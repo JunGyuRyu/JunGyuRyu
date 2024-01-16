@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://solved.ac/fbwnsrb120/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필" style="margin-right: 10px;" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필" style="margin-right: 100;" />
   </a>
   <a href="https://github.com/JunGyuRyu">
     <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" />
