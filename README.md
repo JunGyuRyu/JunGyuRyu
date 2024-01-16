@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 `absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
 `fixed` | **브라우저 창**을 기준으로 배치 |
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunGyuRyu)](https://github.com/anuraghazra/github-readme-stats)
