@@ -18,7 +18,6 @@
 <!--  [![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle}) -->
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
