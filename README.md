@@ -19,16 +19,6 @@
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-### qweqwe
-
-![](./gitHub-profile-3d-contrib/profile-green-animate.svg)
-
-### asdasd
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Profile 3D Contribution" />
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
