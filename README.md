@@ -4,7 +4,7 @@
   <a href="https://solved.ac/fbwnsrb120/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://solved.ac/fbwnsrb120/">
-    <img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=dark" alt="solved grass"/></a>
+    <img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></a>
 </p>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark)
 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=warm"/> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats) -->
