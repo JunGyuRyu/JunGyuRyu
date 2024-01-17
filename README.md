@@ -7,9 +7,9 @@
             <td><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></td>
         </tr>
         <tr>
-            <!--  height="170 -->
-            <td><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats""/></b></td>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs""/></td>
+            <!--  height="170" -->
+            <td><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" width="200"/></b></td>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" width="200"/></td>
         </tr>
     </table>
 </div>
