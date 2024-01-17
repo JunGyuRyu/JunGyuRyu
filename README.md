@@ -3,13 +3,21 @@
 <p align="center">
   <a href="https://solved.ac/fbwnsrb120/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/JunGyuRyu">
-    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" height="170"/></a>
+  <a href="https://solved.ac/fbwnsrb120/">
+    <img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=dark" alt="solved grass"/>
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/JunGyuRyu">
+    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/JunGyuRyu/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats)
-
+<!-- <img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=warm"/> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats) -->
+<!--  ~~ alt="Top Langs" height="170"/> -->
 
 
 <p align="center">
