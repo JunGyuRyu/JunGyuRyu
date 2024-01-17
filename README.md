@@ -9,12 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/JunGyuRyu">
-    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" height="170"/></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/JunGyuRyu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" height="170"/></a>
 </p>
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark)
 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=warm"/> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats) -->
