@@ -13,7 +13,6 @@
 
 
 <p align="center">
-  <table border="0">
     <tr>
       <td align="center">
         <a href="https://github.com/JunGyuRyu/github-readme-stats">
@@ -26,7 +25,6 @@
         </a>
       </td>
     </tr>
-  </table>
 </p>
 
 
