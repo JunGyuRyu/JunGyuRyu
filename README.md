@@ -16,7 +16,7 @@
     <tr>
       <td align="left">
         <a href="https://github.com/JunGyuRyu/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs width="900"" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs width="900"" /></a>
       </td>
       <td align="right">
         <h3>Languages and Tools:</h3>
