@@ -14,8 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></a>
 </p>
 
-<img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=warm"/>
-<img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=dark"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=dark)
 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=warm"/> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats) -->
