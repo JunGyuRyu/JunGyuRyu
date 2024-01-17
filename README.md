@@ -3,15 +3,13 @@
 <p align="center">
   <a href="https://solved.ac/fbwnsrb120/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></a>&nbsp; &nbsp;
-  &nbsp; &nbsp;<a href="https://solved.ac/fbwnsrb120/">
-    <img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></a>
+  <a href="https://solved.ac/fbwnsrb120/">&nbsp; &nbsp;<img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/JunGyuRyu">
     <img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" height="170"/></a>&nbsp; &nbsp;
-  &nbsp; &nbsp;<a href="https://github.com/JunGyuRyu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" height="170"/></a>
+  &nbsp; &nbsp;<a href="https://github.com/JunGyuRyu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" height="170"/></a>
 </p>
 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=warm"/> -->
