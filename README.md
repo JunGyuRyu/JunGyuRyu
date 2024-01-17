@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://solved.ac/fbwnsrb120/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></a>&nbsp; &nbsp;
-  <a href="https://solved.ac/fbwnsrb120/">&nbsp; &nbsp;<img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></a>
+  &nbsp; &nbsp;<a href="https://solved.ac/fbwnsrb120/"><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></a>
 </p>
 
 <p align="center">
