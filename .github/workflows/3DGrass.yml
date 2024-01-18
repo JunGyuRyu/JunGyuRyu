@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x, 14.x, 16.x, 18.x]
+        
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
