@@ -24,26 +24,6 @@
 
 <img src="https://github.com/JunGyuRyu/JunGyuRyu/blob/output/github-contribution-grid-snake.svg"/>
 
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-![](./profile-3d-contrib/profile-green.svg)
-
-![](./profile-3d-contrib/profile-season-animate.svg)
-
-![](./profile-3d-contrib/profile-season.svg)
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
-
-![](./profile-3d-contrib/profile-south-season.svg)
-
-![](./profile-3d-contrib/profile-night-view.svg)
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130" style="object-fit: contain; width: 100%;" alt="footer">
