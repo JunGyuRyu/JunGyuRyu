@@ -1,18 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:0000ff&height=150&section=header&text=JunGyuRyu&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%20Computer%20Science%20and%20Engineering&descSize=20&rotate=0&descAlign=70&descAlignY=55)
 
 <div align="center">
-    <table style="border: none ;">
+    <table style="border: none; border-color: transparent;"">
         <tr>
-            <td><b><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></b></td>
-            <td><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></td>
+            <td width="55%" height="50%" align="center" style="background-color: transparent;"><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/></b></td>
+            <td width="45%" height="50%" align="center" style="background-color: transparent;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></td>
         </tr>
-        <tr>
-            <!--  height="170" -->
-            <td><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" width="200"/></b></td>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" width="200"/></td>
+        <tr> 
+            <td width="55%" height="135px" align="center" style="background-color: transparent;"><b><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></b></td>
+            <td width="45%" align="center" style="background-color: transparent;"><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></td>
         </tr>
     </table>
 </div>
+
 
 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=warm"/> -->
@@ -31,4 +31,4 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=150)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130)
