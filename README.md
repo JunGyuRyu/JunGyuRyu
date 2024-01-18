@@ -7,20 +7,14 @@
             <td width="45%" height="50%" align="center" style="background-color: transparent;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></td>
         </tr>
         <tr> 
-            <td width="55%" height="135px" align="center" style="background-color: transparent;"><b><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></b></td>
-            <td width="45%" align="center" style="background-color: transparent;"><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></td>
+            <td width="55%" align="center" style="background-color: transparent;"><b><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></b></td>
+            <td align="center" style="background-color: transparent;"><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></td>
         </tr>
     </table>
 </div>
 
 
-
-<!-- <img src="http://mazandi.herokuapp.com/api?handle={fbwnsrb120}&theme=warm"/> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple)](https://github.com/JunGyuRyu/github-readme-stats) -->
-<!--  ~~ alt="Top Langs" height="170"/> -->
-<!--  [![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle}) -->
-
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +22,5 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23FFCA00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130)
