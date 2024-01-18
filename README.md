@@ -14,6 +14,25 @@
 </div>
 
 
+
+
+
+
+
+<div align="center">
+    <table style="border: 1px solid transparent;">
+        <tr>
+            <td width="55%" align="center" style="background-color: transparent; border: 1px solid transparent;"><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/></b></td>
+            <td height="100%" align="center" style="background-color: transparent; border: 1px solid transparent;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></td>
+        </tr>
+        <tr> 
+            <td align="center" style="background-color: transparent; border: 1px solid transparent;"><b><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></b></td>
+            <td align="center" style="background-color: transparent; border: 1px solid transparent;"><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></td>
+        </tr>
+    </table>
+</div>
+
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
