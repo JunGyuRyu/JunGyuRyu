@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:0000ff&height=150&section=header&text=JunGyuRyu&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%20Computer%20Science%20and%20Engineering&descSize=20&rotate=0&descAlign=70&descAlignY=55)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:0000ff&height=150&section=header&text=JunGyuRyu&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%20Computer%20Science%20and%20Engineering&descSize=20&rotate=0&descAlign=70&descAlignY=55) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:0000ff&height=150&section=header&text=JunGyuRyu&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%20Computer%20Science%20and%20Engineering&descSize=20&rotate=0&descAlign=70&descAlignY=55" style="object-fit: contain; width: 100%;" alt="header">
 
@@ -28,4 +28,5 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23FFCA00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130)
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130) -->
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130" style="object-fit: contain; width: 100%;" alt="footer">
