@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:0000ff&height=150&section=header&text=JunGyuRyu&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%20Computer%20Science%20and%20Engineering&descSize=20&rotate=0&descAlign=70&descAlignY=55)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:0000ff&height=150&section=header&text=JunGyuRyu&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%20Computer%20Science%20and%20Engineering&descSize=20&rotate=0&descAlign=70&descAlignY=55" style="object-fit: contain; width: 100%;" alt="header">
+
+
+
 <div align="center">
     <table>
         <tr style="background-color: #000000;">
