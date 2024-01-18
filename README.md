@@ -3,20 +3,16 @@
 <div align="center">
     <table>
         <tr style="background-color: #000000;">
-            <td width="55%" align="center"><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" style="object-fit: contain; height: 100%; width: 100%;"/></b></td>
-            <td height="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" style="object-fit: contain; height: 100%; width: 100%;"/></td>
+            <td width="55%" align="center"><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats" style="object-fit: contain; width: 100%;"/></b></td>
+            <td height="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs" style="object-fit: contain; width: 100%;"/></td>
         </tr>
         <tr style="background-color: #000000;"> 
-            <td align="center"><b><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필" style="object-fit: contain; height: 100%; width: 100%;"/></b></td>
-            <td align="center"><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass" style="object-fit: contain; height: 100%; width: 100%;"/></td>
+            <td align="center"><b><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필" style="object-fit: contain; width: 100%;"/></b></td>
+            <td align="center"><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass" style="object-fit: contain; width: 100%;"/></td>
         </tr>
     </table>
 </div>
 
-
-| <span style="background-color: #000000;"><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/></span> | <span style="background-color: #000000;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></span> |
-|:--------:|:--------:|
-| <span style="background-color: #000000;"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></span> | <span style="background-color: #000000;"><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></span> |
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
