@@ -4,15 +4,10 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
-  
-  push:
-    branches:
-    - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
@@ -22,9 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name JunGyuRyu
-          git config user.email qurrpdnjs1@naver.com
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
           git push
-
