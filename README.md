@@ -3,11 +3,11 @@
 <div align="center">
     <table style="border: none; border-color: transparent;"">
         <tr>
-            <td width="55%" height="50%" align="center" style="background-color: transparent;"><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/></b></td>
-            <td width="45%" height="50%" align="center" style="background-color: transparent;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></td>
+            <td width="55%" align="center" style="background-color: transparent;"><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/></b></td>
+            <td width="45%" height="100% align="center" style="background-color: transparent;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></td>
         </tr>
         <tr> 
-            <td width="55%" align="center" style="background-color: transparent;"><b><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></b></td>
+            <td align="center" style="background-color: transparent;"><b><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fbwnsrb120" alt="Solved.ac 프로필"/></b></td>
             <td align="center" style="background-color: transparent;"><img src="http://mazandi.herokuapp.com/api?handle=fbwnsrb120&theme=dark" alt="solved grass"/></td>
         </tr>
     </table>
