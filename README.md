@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20:ffffff,100:0000ff&height=150&section=header&text=JunGyuRyu&fontSize=50&fontAlign=79&fontAlignY=30&animation=fadeIn&fontColor=d6ace6&desc=SeoulTech%20Computer%20Science%20and%20Engineering&descSize=20&rotate=0&descAlign=70&descAlignY=55)
 
-<div align="center">
-    <table style="border: 1px solid #ffffff;">
+<div align="center" style="background-color: #ffffff; border: 1px solid #ffffff;">
+    <table style="background-color: #ffffff; border: 1px solid #ffffff;">
         <tr>
             <td width="55%" align="center" style="background-color: #ffffff; border: 1px solid #ffffff;"><b><img src="https://github-readme-stats.vercel.app/api?username=JunGyuRyu&theme=midnight-purple" alt="Anurag's github stats"/></b></td>
             <td height="100%" align="center" style="background-color: #ffffff; border: 1px solid #ffffff;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunGyuRyu&hide=postscript&layout=compact&theme=midnight-purple" alt="Top Langs"/></td>
