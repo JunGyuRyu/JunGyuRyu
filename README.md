@@ -48,8 +48,7 @@
             </b></td>
             <td height="100%" align="center">
             <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="40"> 
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="40"> <a href="https://unity.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="40">
             </td>
             <td height="100%" align="center">
             <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/89a0e21a-06e5-42c4-a12a-17b8a55675ee" alt="windows10-color" width="40"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
