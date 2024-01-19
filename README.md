@@ -40,19 +40,19 @@
         </tr>
         <tr> 
             <td width="55%" align="center"><b>
-            <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="40">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40">
-<img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/d9a018d7-0984-46ca-a8bf-b66fd1c67b28" alt="java-unscreen" width=40>
+            <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"></a>
+<a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40"></a>
+<a href="https://css3.com" target="_blank" rel="noreferrer"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="40"></a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/d9a018d7-0984-46ca-a8bf-b66fd1c67b28" alt="java-unscreen" width=40></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
             </b></td>
             <td height="100%" align="center">
-            <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="40"> 
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="40">
+            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"></a> <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="40"></a> 
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="40"></a>
             </td>
             <td height="100%" align="center">
-            <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/89a0e21a-06e5-42c4-a12a-17b8a55675ee" alt="windows10-color" width="40"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <a href="https://www.microsoft.com/ko-kr/software-download/windows10" target="_blank" rel="noreferrer"><img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/89a0e21a-06e5-42c4-a12a-17b8a55675ee" alt="windows10-color" width="40"></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></div></p>
             </td>
         </tr>
@@ -63,7 +63,7 @@
     <tr align="center">
         <td colspan="3"><b> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40">
+<a href="https://www.github.com/JunGyuRyu" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
