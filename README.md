@@ -19,19 +19,20 @@
 
 
 
+<p align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%23FF7744&title_bg=%23555555&icon=notion.svg&icon_color=%23FF7744&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fe9cb7eedc3414d91a4f4382cf33f880a&count_bg=%232AB5FF&title_bg=%23555555&icon=notion.svg&icon_color=%232AB5FF&title=Notion&edge_flat=false)](https://www.notion.so/e9cb7eedc3414d91a4f4382cf33f880a)
+
+</p>
 
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%23FF7744&title_bg=%23555555&icon=github.svg&icon_color=%23FF7744&title=hits&edge_flat=false" alt="Github Hits"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fe9cb7eedc3414d91a4f4382cf33f880a&count_bg=%23AAB5FF&title_bg=%23555555&icon=notion.svg&icon_color=%23AAB5FF&title=hits&edge_flat=false" alt="Notion Hits"/></a>
-<a href="https://www.notion.so/e9cb7eedc3414d91a4f4382cf33f880a" target="_blank"><img src="https://img.shields.io/badge/Notion Link-2AB5FF?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-
-
-<a href="https://www.notion.so/e9cb7eedc3414d91a4f4382cf33f880a"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fe9cb7eedc3414d91a4f4382cf33f880a&count_bg=%23AAB5FF&title_bg=%23555555&icon=notion.svg&icon_color=%23AAB5FF&title=Notion Link&edge_flat=false" alt="Notion Hits"/></a>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fe9cb7eedc3414d91a4f4382cf33f880a&count_bg=%232AB5FF&title_bg=%23555555&icon=notion.svg&icon_color=%232AB5FF&title=hits&edge_flat=false)](https://www.notion.so/e9cb7eedc3414d91a4f4382cf33f880a)
-
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%23FF7744&title_bg=%23555555&icon=notion.svg&icon_color=%23FF7744&title=GitHub&edge_flat=false" alt="GitHub">
+</a>
+<a href="https://www.notion.so/e9cb7eedc3414d91a4f4382cf33f880a">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fe9cb7eedc3414d91a4f4382cf33f880a&count_bg=%232AB5FF&title_bg=%23555555&icon=notion.svg&icon_color=%232AB5FF&title=Notion&edge_flat=false" alt="Notion">
+</a>
 </p>
 
 
