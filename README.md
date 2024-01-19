@@ -27,16 +27,10 @@
 <div align="center">
     <table>
         <tr>
-            <td width="55%" align="center"><b>
-            Programming Language
-            </b></td>
-            <td height="100%" align="center">
-            IDE
-            </td>
-            <td height="100%" align="center">
-            OS
-            </td>
-            </td>
+            <td width="55%" align="center">
+            <b>Programming Language</b></td>
+            <td height="100%" align="center"><b>IDE</b></td>
+            <td height="100%" align="center"><b>OS</b></td>
         </tr>
         <tr> 
             <td width="55%" align="center"><b>
@@ -57,8 +51,7 @@
             </td>
         </tr>
     <tr align="center">
-        <td colspan="3"><b> Other Stacks </b>
-        </td>
+        <td colspan="3"><b>Other Stacks</b></td>
     </tr>
     <tr align="center">
         <td colspan="3"><b> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
