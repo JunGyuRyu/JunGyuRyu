@@ -15,7 +15,7 @@
     </table>
 </div>
 
-
+<!-- Hits, Links -->
 <p align="center">
 <a href="https://github.com/JunGyuRyu">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunGyuRyu&count_bg=%23FF7744&title_bg=%23555555&icon=notion.svg&icon_color=%23FF7744&title=GitHub&edge_flat=false" alt="GitHub"></a> <a href="https://www.notion.so/e9cb7eedc3414d91a4f4382cf33f880a">
@@ -23,6 +23,7 @@
 </p>
 
 
+<!-- Languages and Tools -->
 <h3 align="center" style="font-weight: bold;">[ Languages and Tools ]</h3>
 <p><div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40">
@@ -52,13 +53,11 @@
 
 <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/89a0e21a-06e5-42c4-a12a-17b8a55675ee" alt="windows10-color" width="40"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></div></p>
-<br><br>  
 
-
-
-
+<!-- Snake -->
 <img src="https://github.com/JunGyuRyu/JunGyuRyu/blob/output/github-contribution-grid-snake-dark.svg"/>
 
+<!-- 3D Grass -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130" style="object-fit: contain; width: 100%;" alt="footer">
