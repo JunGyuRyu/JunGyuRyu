@@ -1,4 +1,4 @@
-name: Daily Commit Bot
+name: Daily-Commit-Bot
 
 on:
   schedule:
