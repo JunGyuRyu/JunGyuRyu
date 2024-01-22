@@ -3,6 +3,7 @@ name: Daily-Commit-Bot
 on:
   schedule:
     - cron: '0 18 * * *'
+workflow_dispatch:
 
 jobs:
   test_schedule:
