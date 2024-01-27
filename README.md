@@ -35,7 +35,6 @@
         <tr> 
             <td width="55%" align="center"><b>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"></a>
-<a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40"></a>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/d9a018d7-0984-46ca-a8bf-b66fd1c67b28" alt="java-unscreen" width=40></a>
 <a href="https://www.lua.org"> <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/7b693980-29c6-4537-a143-0145f94d700e" alt="lua-color" width="40"></a></b></td>
@@ -87,8 +86,3 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=20:ffffff,100:0000ff&height=130" style="object-fit: contain; width: 100%;" alt="footer">
-Tue Jan 23 01:06:36 UTC 2024
-Wed Jan 24 01:06:26 UTC 2024
-Thu Jan 25 01:06:36 UTC 2024
-Fri Jan 26 01:01:45 UTC 2024
-Sat Jan 27 00:59:51 UTC 2024
