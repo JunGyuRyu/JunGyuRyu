@@ -23,7 +23,7 @@ jobs:
         run: |
           # Replace this command with your own command or script that makes the changes
           echo "Daily contribution"
-          echo "$(date)" >> README.md
+          # echo "$(date)" >> README.md
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
