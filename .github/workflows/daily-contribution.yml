@@ -24,7 +24,7 @@ jobs:
           # Replace this command with your own command or script that makes the changes
           echo "Daily contribution"
           # echo "${date}" >> README.md
-          echo -e "${date}\n" >> date.txt
+          echo "${date}" >> date.txt
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
