@@ -32,7 +32,8 @@ jobs:
           author_email: "qurrpdnjs1@naver.com"
           message: "Daily contribution"
           # Set the files to commit - replace this with your own file paths
-          add: "README.md"
+          # add: "README.md"
+          add: "date.txt"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
