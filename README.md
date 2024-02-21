@@ -77,6 +77,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/cd0f4247-f846-4bb4-a5a8-5c6450766ea8" alt="streamlit" height="40"></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="aws" width="40" height="40"/></a>
 </b>
         </td>
     </tr>
