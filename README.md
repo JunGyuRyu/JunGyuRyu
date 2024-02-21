@@ -73,9 +73,10 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/fff940e7-0016-4366-8ca5-4943719c4ce7" alt="springboot-color" height="40"></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/fff940e7-0016-4366-8ca5-4943719c4ce7" alt="springboot" height="40"></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/cd0f4247-f846-4bb4-a5a8-5c6450766ea8" alt="streamlit" height="40"></a>
 </b>
         </td>
     </tr>
