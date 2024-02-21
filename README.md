@@ -60,7 +60,7 @@
 <a href="https://autokeras.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/14654962-4831-45a5-8ff9-2adcc66af4d4" alt="ak-removebg-preview" width="40"></a>  
 <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy-color" width="40"></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.github.com/JunGyuRyu" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"></a>
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
@@ -74,6 +74,8 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://github.com/JunGyuRyu/JunGyuRyu/assets/88473185/fff940e7-0016-4366-8ca5-4943719c4ce7" alt="springboot-color" height="40"></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flask/flask-icon.svg" alt="flask" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="aws" width="40" height="40"/></a>
 </b>
         </td>
     </tr>
